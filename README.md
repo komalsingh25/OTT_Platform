@@ -1,2 +1,12 @@
-# OTT_Platform
-Developed an OTT platform clone using an MDBMS (Multi-Database Management System) to handle diverse data types efficiently. Implemented user authentication, content categorization, recommendations, and seamless streaming. Integrated structured and unstructured data storage for optimized performance and scalability.
+# Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+
+## Steps to Start the App
+
++ Install React Dependencies
++ Instal Node Dependencies
++ Start Node App
++ Start React App
+
+
+## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
+
